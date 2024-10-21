@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CUNYMartInventory>
+    <Item>
+        <Category>Electronics</Category>
+        <ItemName>Smartphone</ItemName>
+        <ItemID>101</ItemID>
+        <Brand>TechBrand</Brand>
+        <Price>699.99</Price>
+        <Variation>
+            <VariationID>101-A</VariationID>
+            <VariationDetails>
+                <Color>Black</Color>
+                <Storage>64GB</Storage>
+            </VariationDetails>
+        </Variation>
+        <Variation>
+            <VariationID>101-B</VariationID>
+            <VariationDetails>
+                <Color>White</Color>
+                <Storage>128GB</Storage>
+            </VariationDetails>
+        </Variation>
+    </Item>
+    <Item>
+        <Category>Electronics</Category>
+        <ItemName>Laptop</ItemName>
+        <ItemID>102</ItemID>
+        <Brand>CompuBrand</Brand>
+        <Price>1099.99</Price>
+        <Variation>
+            <VariationID>102-A</VariationID>
+            <VariationDetails>
+                <Color>Silver</Color>
+                <Storage>256GB</Storage>
+            </VariationDetails>
+        </Variation>
+        <Variation>
+            <VariationID>102-B</VariationID>
+            <VariationDetails>
+                <Color>Space Gray</Color>
+                <Storage>512GB</Storage>
+            </VariationDetails>
+        </Variation>
+    </Item>
+    <Item>
+        <Category>Home Appliances</Category>
+        <ItemName>Refrigerator</ItemName>
+        <ItemID>201</ItemID>
+        <Brand>HomeCool</Brand>
+        <Price>899.99</Price>
+        <Variation>
+            <VariationID>201-A</VariationID>
+            <VariationDetails>
+                <Color>Stainless Steel</Color>
+                <Capacity>20 cu ft</Capacity>
+            </VariationDetails>
+        </Variation>
+        <Variation>
+            <VariationID>201-B</VariationID>
+            <VariationDetails>
+                <Color>White</Color>
+                <Capacity>18 cu ft</Capacity>
+            </VariationDetails>
+        </Variation>
+    </Item>
+    <Item>
+        <Category>Home Appliances</Category>
+        <ItemName>Washing Machine</ItemName>
+        <ItemID>202</ItemID>
+        <Brand>CleanTech</Brand>
+        <Price>499.99</Price>
+        <Variation>
+            <VariationID>202-A</VariationID>
+            <VariationDetails>
+                <Type>Front Load</Type>
+                <Capacity>4.5 cu ft</Capacity>
+            </VariationDetails>
+        </Variation>
+        <Variation>
+            <VariationID>202-B</VariationID>
+            <VariationDetails>
+                <Type>Top Load</Type>
+                <Capacity>5.0 cu ft</Capacity>
+            </VariationDetails>
+        </Variation>
+    </Item>
+    <Item>
+        <Category>Clothing</Category>
+        <ItemName>T-Shirt</ItemName>
+        <ItemID>301</ItemID>
+        <Brand>FashionCo</Brand>
+        <Price>19.99</Price>
+        <Variation>
+            <VariationID>301-A</VariationID>
+            <VariationDetails>
+                <Color>Blue</Color>
+                <Size>S</Size>
+            </VariationDetails>
+        </Variation>
+        <Variation>
+            <VariationID>301-B</VariationID>
+            <VariationDetails>
+                <Color>Red</Color>
+                <Size>M</Size>
+            </VariationDetails>
+        </Variation>
+        <Variation>
+            <VariationID>301-C</VariationID>
+            <VariationDetails>
+                <Color>Green</Color>
+                <Size>L</Size>
+            </VariationDetails>
+        </Variation>
+    </Item>
+    <Item>
+        <Category>Clothing</Category>
+        <ItemName>Jeans</ItemName>
+        <ItemID>302</ItemID>
+        <Brand>DenimWorks</Brand>
+        <Price>49.99</Price>
+        <Variation>
+            <VariationID>302-A</VariationID>
+            <VariationDetails>
+                <Color>Dark Blue</Color>
+                <Size>32</Size>
+            </VariationDetails>
+        </Variation>
+        <Variation>
+            <VariationID>302-B</VariationID>
+            <VariationDetails>
+                <Color>Light Blue</Color>
+                <Size>34</Size>
+            </VariationDetails>
+        </Variation>
+    </Item>
+    <Item>
+        <Category>Books</Category>
+        <ItemName>Fiction Novel</ItemName>
+        <ItemID>401</ItemID>
+        <Brand>-</Brand>
+        <Price>14.99</Price>
+        <Variation>
+            <VariationID>401-A</VariationID>
+            <VariationDetails>
+                <Format>Hardcover</Format>
+                <Language>English</Language>
+            </VariationDetails>
+        </Variation>
+        <Variation>
+            <VariationID>401-B</VariationID>
+            <VariationDetails>
+                <Format>Paperback</Format>
+                <Language>Spanish</Language>
+            </VariationDetails>
+        </Variation>
+    </Item>
+    <Item>
+        <Category>Books</Category>
+        <ItemName>Non-Fiction Guide</ItemName>
+        <ItemID>402</ItemID>
+        <Brand>-</Brand>
+        <Price>24.99</Price>
+        <Variation>
+            <VariationID>402-A</VariationID>
+            <VariationDetails>
+                <Format>eBook</Format>
+                <Language>English</Language>
+            </VariationDetails>
+        </Variation>
+        <Variation>
+            <VariationID>402-B</VariationID>
+            <VariationDetails>
+                <Format>Paperback</Format>
+                <Language>French</Language>
+            </VariationDetails>
+        </Variation>
+    </Item>
+    <Item>
+        <Category>Sports Equipment</Category>
+        <ItemName>Basketball</ItemName>
+        <ItemID>501</ItemID>
+        <Brand>SportsGear</Brand>
+        <Price>29.99</Price>
+        <Variation>
+            <VariationID>501-A</VariationID>
+            <VariationDetails>
+                <Size>Size 7</Size>
+                <Color>Orange</Color>
+            </VariationDetails>
+        </Variation>
+    </Item>
+    <Item>
+        <Category>Sports Equipment</Category>
+        <ItemName>Tennis Racket</ItemName>
+        <ItemID>502</ItemID>
+        <Brand>RacketPro</Brand>
+        <Price>89.99</Price>
+        <Variation>
+            <VariationID>502-A</VariationID>
+            <VariationDetails>
+                <Material>Graphite</Material>
+                <Color>Black</Color>
+            </VariationDetails>
+        </Variation>
+        <Variation>
+            <VariationID>502-B</VariationID>
+            <VariationDetails>
+                <Material>Aluminum</Material>
+                <Color>Silver</Color>
+            </VariationDetails>
+        </Variation>
+    </Item>
+</CUNYMartInventory>
